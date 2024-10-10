@@ -1,2 +1,10 @@
 jupyter
 nbstripout
+hvplot
+panel
+watchfiles  # dev
+# https://panel.holoviz.org/how_to/editor/vscode_configure.html
+jupyter_bokeh 
+ipykernel 
+# https://panel.holoviz.org/how_to/deployment/binder.html
+jupyter-panel-proxy
