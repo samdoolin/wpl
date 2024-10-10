@@ -7,4 +7,6 @@ watchfiles  # dev
 jupyter_bokeh 
 ipykernel 
 # https://panel.holoviz.org/how_to/deployment/binder.html
-jupyter-panel-proxy
+# jupyter-panel-proxy
+# use fork because there hasn't been a pypi release for a while, and fix icon
+git+https://github.com/samdoolin/jupyter-panel-proxy.git@main
